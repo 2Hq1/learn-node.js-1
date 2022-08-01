@@ -12,3 +12,5 @@ const router = {
 module.exports = {
     router
 }
+
+MC   Vue
