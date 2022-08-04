@@ -11,4 +11,4 @@ server
 //     ctx.body = 'hello'
 // })
 
-server.listen(8080)
+server.listen(8080, () => console.log('server is listening on http://localhost:8080'))
